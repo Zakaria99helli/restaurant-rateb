@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+File-Reader-1/client/node_modules/
+
+# Build outputs
+dist/
+build/
+File-Reader-1/client/dist/
+File-Reader-1/client/build/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Others
+*.local
+*.cache
+*.tmp
+
+# Test coverage
+coverage/
+
+# Generated images
+File-Reader-1/attached_assets/generated_images/
+File-Reader-1/client/src/assets/generated_images/
